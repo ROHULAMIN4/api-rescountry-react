@@ -1,0 +1,9 @@
+.country-single-data {
+  border: 3px solid tomato;
+  background-color: wheat;
+  padding: 10px;
+  border-radius: 15px;
+}
+.country-single-data img {
+  width: 100%;
+}
